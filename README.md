@@ -53,4 +53,4 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/
 
 ##
 
-![Snake animation](https://github.com/TalytaBP/TalytaBP/blob/output/github-contribution-grid-snakr.svg)
+![Snake animation](https://github.com/TalytaBP/TalytaBP/blob/output/github-contribution-grid-snake.svg)
